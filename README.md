@@ -1,2 +1,2 @@
 # Room-persistence-project
-Kotlin mobile project made with Architecture Components and dynamic RecycleView
+Kotlin mobile project made with Architecture Components and dynamic RecyclerView
